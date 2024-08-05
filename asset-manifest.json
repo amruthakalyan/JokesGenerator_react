@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JokesGenerator_react/static/css/main.34fb9fe2.css",
+    "main.js": "/JokesGenerator_react/static/js/main.29d11301.js",
+    "static/js/453.4758300c.chunk.js": "/JokesGenerator_react/static/js/453.4758300c.chunk.js",
+    "index.html": "/JokesGenerator_react/index.html",
+    "main.34fb9fe2.css.map": "/JokesGenerator_react/static/css/main.34fb9fe2.css.map",
+    "main.29d11301.js.map": "/JokesGenerator_react/static/js/main.29d11301.js.map",
+    "453.4758300c.chunk.js.map": "/JokesGenerator_react/static/js/453.4758300c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34fb9fe2.css",
+    "static/js/main.29d11301.js"
+  ]
+}
